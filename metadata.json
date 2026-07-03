@@ -1,0 +1,6 @@
+{
+  "name": "Domain Studio",
+  "description": "Premium .COM Domain Filtering and AI-powered intelligence platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
